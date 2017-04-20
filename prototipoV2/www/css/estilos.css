@@ -1,0 +1,24 @@
+.pane {
+    background-color: #0039e6;
+}
+
+
+
+.item-body {
+  background-color:#006bb3;
+}
+
+
+.item-text-wrap{
+  background-color:#e0e0eb;
+}
+
+.h3 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
