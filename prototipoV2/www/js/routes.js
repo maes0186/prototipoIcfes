@@ -17,6 +17,12 @@ angular.module('app.routes', [])
   })
 
   .state('aplicaciNPrueba3579', {
+    url: '/pageSeleccionProyecto',
+    templateUrl: 'templates/seleccionProyecto.html',
+    controller: 'seleccionProyectoCtrl'
+  })
+
+  .state('aplicaciNPrueba35792', {
     url: '/page3',
     templateUrl: 'templates/aplicaciNPrueba3579.html',
     controller: 'aplicaciNPrueba3579Ctrl'
